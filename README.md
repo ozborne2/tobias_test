@@ -1,2 +1,2 @@
-# tobias_test
-This is for testing out Github integration with RStudio.
+# tobias is learning, hopefully.
+This is for testing out GitHub integration with RStudio.
